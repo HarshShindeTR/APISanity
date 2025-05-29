@@ -6,8 +6,8 @@
   "dependencies": {
     "Cloning_MasterTaxClient": "[1.0.18]",
     "PingID": "[1.0.9]",
-    "Review_Wizards": "[1.0.57]",
-    "Sanity_AddDoc": "[1.0.8]",
+    "Review_Wizards": "[1.0.61]",
+    "Sanity_AddDoc": "[1.0.9]",
     "Sanity_ApiIndexTreeValidations": "[1.0.2]",
     "Sanity_CCHLeadSheet": "[1.0.11]",
     "SanityReport_GenerateOutput": "[1.0.3]",
@@ -30,12 +30,12 @@
       "serviceDocument": ".entities/EntitiesStore.json",
       "tenantName": "DefaultTenant",
       "namespace": "APISanityWorkflow_2023",
-      "uniqueReference": "M1i77T8k6a+Ra2vAEJ4CoEGKOccja/SDT5hjDUC5Z98="
+      "uniqueReference": "bIaJt/zhxdtDPS4bA1z5uinFyj+yUh0jIiHlHlshbGA="
     }
   ],
   "schemaVersion": "4.0",
   "studioVersion": "24.10.6.0",
-  "projectVersion": "1.0.6",
+  "projectVersion": "1.0.7",
   "runtimeOptions": {
     "autoDispose": false,
     "netFrameworkLazyLoading": false,
